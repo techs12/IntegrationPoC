@@ -1,7 +1,7 @@
 # IntegrationPoC
 Web API Integration PoC
 # REST API desing with .net core
-This repository contains an example API written in C# and ASP.NET Core.  
+This repository contains IntegrationPoC API written in C# and ASP.NET Core.  
 
 # Getting Started
 
